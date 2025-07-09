@@ -30,10 +30,9 @@ To set up and run this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/drowsiness-detection-system.git](https://github.com/YOUR_USERNAME/drowsiness-detection-system.git)
+    git clone https://github.com/vijay-0108/driver-drowsiness/tree/main
     cd drowsiness-detection-system
     ```
-    (Replace `YOUR_USERNAME` and `drowsiness-detection-system` with your actual GitHub username and repository name)
 
 2.  **Create a virtual environment (recommended):**
     ```bash
